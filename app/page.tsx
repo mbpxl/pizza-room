@@ -54,7 +54,7 @@ export default function Home() {
                   items: [{ price: 800 }]
                 },
               ]} categoryId={1} />
-              <ProductsGroupList title={"Завтрак"} goods={[
+              <ProductsGroupList title={"Комбо"} goods={[
                 {
                   id: 11,
                   name: "Омлет с ветчиной и грибами",
