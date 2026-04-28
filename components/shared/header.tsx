@@ -14,6 +14,8 @@ export const Header = () => {
             <p className="text-sm text-gray-400 leading-3">лучше не бывает</p>
           </div>
         </div>
+				{/* строка поиска */}
+        <div className="mx-10 flex-1"></div>
 
         <div className="flex items-center gap-3">
           <Button variant={"outline"} className="flex items-center gap-1">
